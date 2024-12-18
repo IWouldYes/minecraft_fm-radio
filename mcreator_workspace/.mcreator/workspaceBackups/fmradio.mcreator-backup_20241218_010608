@@ -1,0 +1,49 @@
+{
+  "mod_elements": [
+    {
+      "name": "Radio",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "radio",
+      "metadata": {
+        "files": [
+          "src/main/java/net/acoolradio/minecraftfmradio/block/RadioBlock.java",
+          "src/main/resources/data/fmradio/loot_tables/blocks/radio.json",
+          "src/main/resources/assets/fmradio/models/block/radio.json",
+          "src/main/resources/assets/fmradio/blockstates/radio.json",
+          "src/main/resources/assets/fmradio/models/item/radio.json"
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "tag_elements": {},
+  "tab_element_order": {},
+  "language_map": {
+    "en_us": {
+      "block.fmradio.radio": "Radio"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "fmradio",
+    "modName": "fmradio",
+    "version": "1.0.0",
+    "author": "user, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Not specified",
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.20.1",
+    "modElementsPackage": "net.acoolradio.minecraftfmradio"
+  },
+  "mcreatorVersion": 202400451119
+}

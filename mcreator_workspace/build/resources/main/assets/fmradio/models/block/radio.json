@@ -1,0 +1,19 @@
+{
+  "parent": "forge:item/default",
+  "loader": "forge:composite",
+  "children": {
+    "part1": {
+      "loader": "forge:obj",
+      "render_type": "solid",
+      "model": "fmradio:models/item/radio.obj",
+      "emissive_ambient": true,
+      "textures": {
+        "#m_7ccf835d-2d8b-aed5-140c-547ea7ab3ec9": "fmradio:block/"
+      }
+    }
+  },
+  "textures": {
+    "particle": "minecraft:block/stripped_spruce_log"
+  },
+  "render_type": "solid"
+}
