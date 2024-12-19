@@ -6,8 +6,7 @@ plugins {
 }
 
 version = mod_version
-group = "com.acoolradiomod.fmradio"
-//group = mod_group_id
+group = mod_group_id
 
 base {
     archivesName = mod_id
